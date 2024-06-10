@@ -1,0 +1,43 @@
+body{
+    background-color:hotpink;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 110px; /* Adjust this value based on your requirement */
+  }
+  
+  .dashboard-container {
+    text-align: center;
+  }
+  
+  .dashboard-heading {
+    margin-top: 20px;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  .formClass{
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 9%;
+    margin-right: 7%;
+    
+  }
+
+  .cards{
+    margin-left: 9%;
+    margin-right: 7%;
+  }
+
+  .myForm{
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    
+  }
